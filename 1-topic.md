@@ -88,3 +88,5 @@ Here's a challenge for you:
 Write a function to reverse a string using a stack. Here's the [solution](./solutions.py).
 
 Feel free to try the challenge problem! If you need guidance, the solution is available for reference.
+
+### Go back to [welcome](./0-welcome.md) page

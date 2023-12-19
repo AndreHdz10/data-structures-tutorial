@@ -112,3 +112,5 @@ Write a function to find the middle element of a singly linked list. If the link
 Here's the [solution](./solutions.py).
 
 Feel free to try the challenge problem! If you need guidance, the solution is available for reference.
+
+### Go back to [welcome](./0-welcome.md) page
